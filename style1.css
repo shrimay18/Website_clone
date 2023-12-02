@@ -1,0 +1,377 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.top {
+    background-color: black;
+    height: 1.5vh;
+    width: 100vw;
+    z-index: 1.5;
+}
+
+.first>nav {
+    display: flex;
+    padding: 5vh;
+    height: 20vh;
+
+}
+
+header {
+    background-color: rgb(1, 48, 120);
+    height: 100vh;
+    width: 100vw;
+}
+
+.first {
+    position: relative;
+    display: flex;
+    color: white;
+    flex-wrap: wrap;
+}
+
+.Lorem {
+    padding: 5vh;
+    font-size: 3vh;
+}
+
+.bar {
+    display: flex;
+    padding: 5.5vh;
+    color: rgb(113, 143, 202);
+    flex-wrap: wrap;
+}
+
+.bar1 {
+    padding-left: 20vw;
+}
+
+.bar2 {
+    padding-left: 5vw;
+}
+
+.bar3 {
+    padding-left: 5vw;
+}
+
+.bar4 {
+    padding-left: 5vw;
+}
+
+.bar5 {
+    padding-left: 5vw;
+}
+
+.bar6 {
+    padding-left: 5vw;
+}
+
+.bar7 {
+    padding-left: 5vw;
+}
+
+.bar8 {
+    padding-left: 5vw;
+}
+
+.bar1:hover {
+    color: white;
+}
+
+.bar2:hover {
+    color: white;
+}
+
+.bar3:hover {
+    color: white;
+}
+
+.bar4:hover {
+    color: white;
+}
+
+.bar5:hover {
+    color: white;
+}
+
+.bar6:hover {
+    color: white;
+}
+
+.bar7:hover {
+    color: white;
+}
+
+.bar8:hover {
+    color: white;
+}
+
+.second {
+    position: absolute;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding-top: 35vh;
+    padding-left: 5vw;
+
+}
+
+.Welcome {
+    font-size: 5vh;
+}
+
+.LOREM {
+    font-size: 6vh;
+}
+
+.Lorem12 {
+    padding-top: 3vh;
+    color: rgb(80, 121, 186);
+}
+
+button {
+    background-color: rgb(32, 65, 134);
+    margin-top: 4vh;
+    width: 8vw;
+    border-radius: 5vh;
+    font-size: 2vh;
+    color: white;
+    padding: 1vh;
+    border: 1px solid rgb(80, 121, 186);
+}
+
+.video {
+    position: absolute;
+    color: white;
+    font-size: 2vh;
+    padding-left: 10vw;
+    bottom: 0.5vh;
+}
+
+.image_one {
+    position: absolute;
+    height: 45vh;
+    width: 35vw;
+    display: flex;
+    padding-left: 50vw;
+    top: 20%;
+}
+
+.blue {
+    background-color: rgb(1, 48, 120);
+    height: 20vh;
+    width: 100vw;
+}
+
+.second_page {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.box1 {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    background-color: rgb(2, 46, 117);
+    height: 25vh;
+    width: 15vw;
+    left: 7%;
+    top: 5%;
+    border-radius: 15px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    font-size: 3vh;
+    padding-top: 5vh;
+    flex-wrap: wrap;
+}
+
+.box1_image {
+    width: 4vw;
+    height: 4vh;
+    padding-bottom: 3vh;
+}
+
+.box2 {
+    display: flex;
+    position: absolute;
+    background-color: rgb(2, 46, 117);
+    height: 25vh;
+    width: 15vw;
+    left: 30%;
+    top: 5%;
+    border-radius: 15px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: 3vh;
+    padding-top: 5vh;
+    flex-wrap: wrap;
+}
+
+.box3 {
+    display: flex;
+    position: absolute;
+    background-color: rgb(2, 46, 117);
+    height: 25vh;
+    width: 15vw;
+    left: 53%;
+    top: 5%;
+    border-radius: 15px;
+    font-size: 3vh;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5vh;
+    flex-wrap: wrap;
+}
+
+.box4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: rgb(2, 46, 117);
+    height: 25vh;
+    width: 15vw;
+    left: 76%;
+    top: 5%;
+    border-radius: 15px;
+    color: white;
+    justify-content: center;
+    font-size: 3vh;
+    padding-top: 5vh;
+    flex-wrap: wrap;
+}
+
+.About {
+    position: relative;
+    display: flex;
+    font-weight: 500;
+    font-size: 7vh;
+    top: 25%;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Vina Sans', sans-serif;
+    flex-wrap: wrap;
+}
+
+.blue_line {
+    display: flex;
+    position: absolute;
+    width: 4vw;
+    height: 0.5vh;
+    background-color: rgb(0, 18, 76);
+    top: 55%;
+    left: 48vw;
+    flex-wrap: wrap;
+}
+
+.third_page {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+.writing {
+    position: absolute;
+    color: black;
+    top: 60%;
+    left: 10vw;
+
+}
+
+.highlighted {
+    display: flex;
+    position: absolute;
+    color: black;
+    justify-content: flex-start;
+    top: 70vh;
+    padding-left: 5vw;
+    width: 30vw;
+    font-size: 2vh;
+    flex-wrap: wrap;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Vina Sans', sans-serif;
+
+}
+
+.second_page_image1 {
+    position: absolute;
+    width: 40vw;
+    height: 50vh;
+    top: 180%;
+    left: 5%;
+    border-radius: 10px;
+}
+
+.intersection {
+    position: absolute;
+    left: 50vw;
+    color: black;
+    top: 170%;
+}
+
+.right-most {
+    position: absolute;
+    left: 50vw;
+    width: 45vw;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.para {
+    color: black;
+    position: absolute;
+    width: 40vw;
+    top: 30vh;
+    left: 5vw;
+}
+
+.logo_company {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 55vh;
+    flex-wrap: wrap;
+}
+
+.company1 {
+    width: 10vw;
+    height: 10vh;
+    padding: 5vh;
+}
+
+.company2 {
+    width: 10vw;
+    height: 10vh;
+    padding: 5vh;
+}
+
+.company3 {
+    width: 10vw;
+    height: 10vh;
+    padding: 5vh;
+}
+
+.company4 {
+    width: 10vw;
+    height: 10vh;
+    padding: 5vh;
+}
+
+.company5 {
+    width: 10vw;
+    height: 10vh;
+    padding: 5vh;
+}
+
+.company6 {
+    width: 10vw;
+    height: 10vh;
+    padding: 5vh;
+}
